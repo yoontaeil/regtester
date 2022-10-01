@@ -1,0 +1,69 @@
+<Chart Size="575, 404" BackGradientStyle="TopBottom" BackSecondaryColor="PaleGreen" BorderlineColor="ForestGreen" BorderlineWidth="2" BorderlineDashStyle="Solid">
+  <Series>
+    <Series Name="Ohm" Legend="Legend1" XValueType="DateTime" YValueType="Double" ChartType="Spline" ChartArea="Defalut" Color="Firebrick" BorderColor="Red" BorderWidth="2">
+      <Points>
+        <DataPoint XValue="44271.575149953707" YValues="86" />
+        <DataPoint XValue="44271.575160219909" YValues="45" />
+        <DataPoint XValue="44271.575165509261" YValues="55" />
+        <DataPoint XValue="44271.575168368057" YValues="35" />
+        <DataPoint XValue="44271.5751728125" YValues="-1" />
+        <DataPoint XValue="44271.575174664351" YValues="3" />
+        <DataPoint XValue="44271.575178182873" YValues="-69" />
+        <DataPoint XValue="44271.5751824537" YValues="-18" />
+        <DataPoint XValue="44271.575184513888" YValues="-23" />
+        <DataPoint XValue="44271.575187546296" YValues="-70" />
+        <DataPoint XValue="44271.575190324074" YValues="-39" />
+        <DataPoint XValue="44271.575192638891" YValues="38" />
+        <DataPoint XValue="44271.575195046295" YValues="-72" />
+        <DataPoint XValue="44271.575197453705" YValues="20" />
+        <DataPoint XValue="44271.575199675928" YValues="92" />
+        <DataPoint XValue="44271.575201805557" YValues="17" />
+        <DataPoint XValue="44271.57520402778" YValues="22" />
+        <DataPoint XValue="44271.575206354166" YValues="-5" />
+        <DataPoint XValue="44271.575208483795" YValues="98" />
+        <DataPoint XValue="44271.575210798612" YValues="87" />
+        <DataPoint XValue="44271.575213113429" YValues="6" />
+        <DataPoint XValue="44271.575215532408" YValues="-50" />
+        <DataPoint XValue="44271.575217731479" YValues="-9" />
+        <DataPoint XValue="44271.575219583334" YValues="71" />
+        <DataPoint XValue="44271.57522496528" YValues="46" />
+        <DataPoint XValue="44271.575226898145" YValues="-2" />
+        <DataPoint XValue="44271.575230150462" YValues="-99" />
+        <DataPoint XValue="44271.575237268517" YValues="-92" />
+        <DataPoint XValue="44271.575239398146" YValues="-93" />
+        <DataPoint XValue="44271.575246898145" YValues="-99" />
+        <DataPoint XValue="44271.575249027781" YValues="-64" />
+        <DataPoint XValue="44271.575251527778" YValues="-8" />
+        <DataPoint XValue="44271.575253842595" YValues="35" />
+        <DataPoint XValue="44271.575256076387" YValues="68" />
+        <DataPoint XValue="44271.575258564815" YValues="5" />
+        <DataPoint XValue="44271.575261087964" YValues="91" />
+        <DataPoint XValue="44271.575263576386" YValues="-35" />
+        <DataPoint XValue="44271.575266435182" YValues="39" />
+        <DataPoint XValue="44271.575269490742" YValues="43" />
+        <DataPoint XValue="44271.575272268521" YValues="-68" />
+        <DataPoint XValue="44271.575274583331" YValues="37" />
+        <DataPoint XValue="44271.575276631942" YValues="-73" />
+        <DataPoint XValue="44271.575278935183" YValues="56" />
+        <DataPoint XValue="44271.575284675928" YValues="-6" />
+        <DataPoint XValue="44271.575287361113" YValues="91" />
+        <DataPoint XValue="44271.575294120368" YValues="-81" />
+      </Points>
+    </Series>
+  </Series>
+  <Legends>
+    <Legend Name="Legend1">
+    </Legend>
+  </Legends>
+  <ChartAreas>
+    <ChartArea BackColor="White" BackSecondaryColor="Gray" Name="Defalut">
+      <AxisX LabelAutoFitStyle="IncreaseFont, DecreaseFont, StaggeredLabels, WordWrap">
+        <ScaleView SizeType="Seconds" />
+      </AxisX>
+      <Position X="4.536885" Y="5.508361" Width="90.15778" Height="87.7291" Auto="False" />
+      <InnerPlotPosition X="9.31973" Y="3.5906" Width="88.93334" Height="85.39538" Auto="False" />
+      <Area3DStyle IsRightAngleAxes="False" Inclination="20" Rotation="50" WallWidth="21" PointDepth="200" />
+    </ChartArea>
+  </ChartAreas>
+  <BorderSkin SkinStyle="Emboss" BackColor="HighlightText" BackSecondaryColor="255, 128, 128" BorderWidth="23" BorderDashStyle="Solid" />
+</Chart>

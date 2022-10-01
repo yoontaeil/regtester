@@ -1,0 +1,117 @@
+C:\Users\재용\Documents\Visual Studio 2012\Projects\RealTimeChartTest\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe.config
+C:\Users\재용\Documents\Visual Studio 2012\Projects\RealTimeChartTest\RealTimeChartTest\obj\Debug\RealTimeChartTest.csprojResolveAssemblyReference.cache
+C:\Users\재용\Documents\Visual Studio 2012\Projects\RealTimeChartTest\RealTimeChartTest\obj\Debug\LineChartTEST.Form1.resources
+C:\Users\재용\Documents\Visual Studio 2012\Projects\RealTimeChartTest\RealTimeChartTest\obj\Debug\RealTimeChartTest.Properties.Resources.resources
+C:\Users\재용\Documents\Visual Studio 2012\Projects\RealTimeChartTest\RealTimeChartTest\obj\Debug\RealTimeChartTest.csproj.GenerateResource.Cache
+C:\Users\재용\Documents\Visual Studio 2012\Projects\RealTimeChartTest\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe
+C:\Users\재용\Documents\Visual Studio 2012\Projects\RealTimeChartTest\RealTimeChartTest\bin\Debug\RealTimeChartTest.pdb
+C:\Users\재용\Documents\Visual Studio 2012\Projects\RealTimeChartTest\RealTimeChartTest\obj\Debug\RealTimeChartTest.exe
+C:\Users\재용\Documents\Visual Studio 2012\Projects\RealTimeChartTest\RealTimeChartTest\obj\Debug\RealTimeChartTest.pdb
+C:\Users\yoon\Desktop\저항측정기 관련\RealTimeChartTest\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe.config
+C:\Users\yoon\Desktop\저항측정기 관련\RealTimeChartTest\RealTimeChartTest\obj\Debug\RealTimeChartTest.exe
+C:\Users\yoon\Desktop\저항측정기 관련\RealTimeChartTest\RealTimeChartTest\obj\Debug\RealTimeChartTest.pdb
+C:\Users\yoon\Desktop\저항측정기 관련\RealTimeChartTest\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe
+C:\Users\yoon\Desktop\저항측정기 관련\RealTimeChartTest\RealTimeChartTest\bin\Debug\RealTimeChartTest.pdb
+C:\Users\yoon\Desktop\저항측정기 관련\RealTimeChartTest\RealTimeChartTest\obj\Debug\RealTimeChartTest.csprojResolveAssemblyReference.cache
+C:\Users\yoon\Desktop\저항측정기 관련\RealTimeChartTest\RealTimeChartTest\obj\Debug\LineChartTEST.Form1.resources
+C:\Users\yoon\Desktop\저항측정기 관련\RealTimeChartTest\RealTimeChartTest\obj\Debug\RealTimeChartTest.Properties.Resources.resources
+C:\Users\yoon\Desktop\저항측정기 관련\RealTimeChartTest\RealTimeChartTest\obj\Debug\RealTimeChartTest.csproj.GenerateResource.Cache
+C:\Users\yoon\Desktop\저항측정기 관련\real time chart sample\RealTimeChartTest\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe.config
+C:\Users\yoon\Desktop\저항측정기 관련\real time chart sample\RealTimeChartTest\RealTimeChartTest\obj\Debug\RealTimeChartTest.exe
+C:\Users\yoon\Desktop\저항측정기 관련\real time chart sample\RealTimeChartTest\RealTimeChartTest\obj\Debug\RealTimeChartTest.pdb
+C:\Users\yoon\Desktop\저항측정기 관련\real time chart sample\RealTimeChartTest\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe
+C:\Users\yoon\Desktop\저항측정기 관련\real time chart sample\RealTimeChartTest\RealTimeChartTest\bin\Debug\RealTimeChartTest.pdb
+C:\Users\yoon\Desktop\저항측정기 관련\real time chart sample\RealTimeChartTest\RealTimeChartTest\obj\Debug\LineChartTEST.Form1.resources
+C:\Users\yoon\Desktop\저항측정기 관련\real time chart sample\RealTimeChartTest\RealTimeChartTest\obj\Debug\RealTimeChartTest.Properties.Resources.resources
+C:\Users\yoon\Desktop\저항측정기 관련\real time chart sample\RealTimeChartTest\RealTimeChartTest\obj\Debug\RealTimeChartTest.csproj.GenerateResource.Cache
+C:\Users\yoon\Desktop\저항측정기 관련\real time chart sample\RealTimeChartTest\RealTimeChartTest\obj\Debug\LineChartTEST.Form2.resources
+C:\Users\yoon\Desktop\저항측정기 관련\real time chart sample\RealTimeChartTest\RealTimeChartTest\obj\Debug\RealTimeChartTest.csprojResolveAssemblyReference.cache
+C:\Users\yoon\Desktop\저항측정기 관련\real time chart sample\RealTimeChartTest - 복사본\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe.config
+C:\Users\yoon\Desktop\저항측정기 관련\real time chart sample\RealTimeChartTest - 복사본\RealTimeChartTest\obj\Debug\RealTimeChartTest.exe
+C:\Users\yoon\Desktop\저항측정기 관련\real time chart sample\RealTimeChartTest - 복사본\RealTimeChartTest\obj\Debug\RealTimeChartTest.pdb
+C:\Users\yoon\Desktop\저항측정기 관련\real time chart sample\RealTimeChartTest - 복사본\RealTimeChartTest\obj\Debug\LineChartTEST.Form1.resources
+C:\Users\yoon\Desktop\저항측정기 관련\real time chart sample\RealTimeChartTest - 복사본\RealTimeChartTest\obj\Debug\LineChartTEST.Form2.resources
+C:\Users\yoon\Desktop\저항측정기 관련\real time chart sample\RealTimeChartTest - 복사본\RealTimeChartTest\obj\Debug\RealTimeChartTest.Properties.Resources.resources
+C:\Users\yoon\Desktop\저항측정기 관련\real time chart sample\RealTimeChartTest - 복사본\RealTimeChartTest\obj\Debug\RealTimeChartTest.csproj.GenerateResource.Cache
+C:\Users\yoon\Desktop\저항측정기 관련\real time chart sample\RealTimeChartTest - 복사본\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe
+C:\Users\yoon\Desktop\저항측정기 관련\real time chart sample\RealTimeChartTest - 복사본\RealTimeChartTest\bin\Debug\RealTimeChartTest.pdb
+C:\Users\yoon\Desktop\저항측정기 관련\real time chart sample\RealTimeChartTest - 복사본\RealTimeChartTest\obj\Debug\RealTimeChartTest.csprojResolveAssemblyReference.cache
+C:\Users\yoon\Desktop\RegTester\real time chart sample\RealTimeChartTest - 복사본\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe.config
+C:\Users\yoon\Desktop\RegTester\real time chart sample\RealTimeChartTest - 복사본\RealTimeChartTest\obj\Debug\RealTimeChartTest.exe
+C:\Users\yoon\Desktop\RegTester\real time chart sample\RealTimeChartTest - 복사본\RealTimeChartTest\obj\Debug\RealTimeChartTest.pdb
+C:\Users\yoon\Desktop\RegTester\real time chart sample\RealTimeChartTest - 복사본\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe
+C:\Users\yoon\Desktop\RegTester\real time chart sample\RealTimeChartTest - 복사본\RealTimeChartTest\bin\Debug\RealTimeChartTest.pdb
+C:\Users\yoon\Desktop\RegTester\real time chart sample\RealTimeChartTest - 복사본\RealTimeChartTest\obj\Debug\LineChartTEST.Form1.resources
+C:\Users\yoon\Desktop\RegTester\real time chart sample\RealTimeChartTest - 복사본\RealTimeChartTest\obj\Debug\LineChartTEST.Form2.resources
+C:\Users\yoon\Desktop\RegTester\real time chart sample\RealTimeChartTest - 복사본\RealTimeChartTest\obj\Debug\RealTimeChartTest.Properties.Resources.resources
+C:\Users\yoon\Desktop\RegTester\real time chart sample\RealTimeChartTest - 복사본\RealTimeChartTest\obj\Debug\RealTimeChartTest.csproj.GenerateResource.Cache
+C:\Users\yoon\Desktop\RegTester\real time chart sample\RealTimeChartTest - 복사본\RealTimeChartTest\obj\Debug\RealTimeChartTest.csprojResolveAssemblyReference.cache
+C:\Users\yoon\Desktop\RegTester\real time chart sample\RealTimeChartTest[2021.04.08]\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe.config
+C:\Users\yoon\Desktop\RegTester\real time chart sample\RealTimeChartTest[2021.04.08]\RealTimeChartTest\obj\Debug\RealTimeChartTest.exe
+C:\Users\yoon\Desktop\RegTester\real time chart sample\RealTimeChartTest[2021.04.08]\RealTimeChartTest\obj\Debug\RealTimeChartTest.pdb
+C:\Users\yoon\Desktop\RegTester\real time chart sample\RealTimeChartTest[2021.04.08]\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe
+C:\Users\yoon\Desktop\RegTester\real time chart sample\RealTimeChartTest[2021.04.08]\RealTimeChartTest\bin\Debug\RealTimeChartTest.pdb
+C:\Users\yoon\Desktop\RegTester\real time chart sample\RealTimeChartTest[2021.04.08]\RealTimeChartTest\obj\Debug\LineChartTEST.Form1.resources
+C:\Users\yoon\Desktop\RegTester\real time chart sample\RealTimeChartTest[2021.04.08]\RealTimeChartTest\obj\Debug\LineChartTEST.Form2.resources
+C:\Users\yoon\Desktop\RegTester\real time chart sample\RealTimeChartTest[2021.04.08]\RealTimeChartTest\obj\Debug\RealTimeChartTest.Properties.Resources.resources
+C:\Users\yoon\Desktop\RegTester\real time chart sample\RealTimeChartTest[2021.04.08]\RealTimeChartTest\obj\Debug\RealTimeChartTest.csproj.GenerateResource.Cache
+C:\Users\yoon\Desktop\RegTester\real time chart sample\RealTimeChartTest[2021.04.08]\RealTimeChartTest\obj\Debug\RealTimeChartTest.csprojResolveAssemblyReference.cache
+C:\Users\yoon\Desktop\RegTester\RealTimeChartTest[2021.04.08]\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe.config
+C:\Users\yoon\Desktop\RegTester\RealTimeChartTest[2021.04.08]\RealTimeChartTest\obj\Debug\RealTimeChartTest.exe
+C:\Users\yoon\Desktop\RegTester\RealTimeChartTest[2021.04.08]\RealTimeChartTest\obj\Debug\RealTimeChartTest.pdb
+C:\Users\yoon\Desktop\RegTester\RealTimeChartTest[2021.04.08]\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe
+C:\Users\yoon\Desktop\RegTester\RealTimeChartTest[2021.04.08]\RealTimeChartTest\bin\Debug\RealTimeChartTest.pdb
+C:\Users\yoon\Desktop\RegTester\RealTimeChartTest[2021.04.08]\RealTimeChartTest\obj\Debug\RealTimeChartTest.csprojResolveAssemblyReference.cache
+C:\Users\yoon\Desktop\RegTester\RealTimeChartTest[2021.04.08]\RealTimeChartTest\obj\Debug\LineChartTEST.Form1.resources
+C:\Users\yoon\Desktop\RegTester\RealTimeChartTest[2021.04.08]\RealTimeChartTest\obj\Debug\LineChartTEST.Form2.resources
+C:\Users\yoon\Desktop\RegTester\RealTimeChartTest[2021.04.08]\RealTimeChartTest\obj\Debug\RealTimeChartTest.Properties.Resources.resources
+C:\Users\yoon\Desktop\RegTester\RealTimeChartTest[2021.04.08]\RealTimeChartTest\obj\Debug\RealTimeChartTest.csproj.GenerateResource.Cache
+C:\Users\yoon\Desktop\RegTester\RealTimeChartTest[2021.04.08] - 복사본\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe.config
+C:\Users\yoon\Desktop\RegTester\RealTimeChartTest[2021.04.08] - 복사본\RealTimeChartTest\obj\Debug\RealTimeChartTest.exe
+C:\Users\yoon\Desktop\RegTester\RealTimeChartTest[2021.04.08] - 복사본\RealTimeChartTest\obj\Debug\RealTimeChartTest.pdb
+C:\Users\yoon\Desktop\RegTester\RealTimeChartTest[2021.04.08] - 복사본\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe
+C:\Users\yoon\Desktop\RegTester\RealTimeChartTest[2021.04.08] - 복사본\RealTimeChartTest\bin\Debug\RealTimeChartTest.pdb
+C:\Users\yoon\Desktop\RegTester\RealTimeChartTest[2021.04.08] - 복사본\RealTimeChartTest\obj\Debug\RealTimeChartTest.csprojResolveAssemblyReference.cache
+C:\Users\yoon\Desktop\RegTester\RealTimeChartTest[2021.04.08] - 복사본\RealTimeChartTest\obj\Debug\LineChartTEST.Form1.resources
+C:\Users\yoon\Desktop\RegTester\RealTimeChartTest[2021.04.08] - 복사본\RealTimeChartTest\obj\Debug\LineChartTEST.Form2.resources
+C:\Users\yoon\Desktop\RegTester\RealTimeChartTest[2021.04.08] - 복사본\RealTimeChartTest\obj\Debug\RealTimeChartTest.Properties.Resources.resources
+C:\Users\yoon\Desktop\RegTester\RealTimeChartTest[2021.04.08] - 복사본\RealTimeChartTest\obj\Debug\RealTimeChartTest.csproj.GenerateResource.Cache
+C:\Users\yoon\Desktop\RegTester\RealTimeChartTest[2021.04.14]\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe.config
+C:\Users\yoon\Desktop\RegTester\RealTimeChartTest[2021.04.14]\RealTimeChartTest\obj\Debug\RealTimeChartTest.exe
+C:\Users\yoon\Desktop\RegTester\RealTimeChartTest[2021.04.14]\RealTimeChartTest\obj\Debug\RealTimeChartTest.pdb
+C:\Users\yoon\Desktop\RegTester\RealTimeChartTest[2021.04.14]\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe
+C:\Users\yoon\Desktop\RegTester\RealTimeChartTest[2021.04.14]\RealTimeChartTest\bin\Debug\RealTimeChartTest.pdb
+C:\Users\yoon\Desktop\RegTester\RealTimeChartTest[2021.04.14]\RealTimeChartTest\obj\Debug\RealTimeChartTest.csprojResolveAssemblyReference.cache
+C:\Users\yoon\Desktop\RegTester\RealTimeChartTest[2021.04.14]\RealTimeChartTest\obj\Debug\LineChartTEST.Form1.resources
+C:\Users\yoon\Desktop\RegTester\RealTimeChartTest[2021.04.14]\RealTimeChartTest\obj\Debug\LineChartTEST.Form2.resources
+C:\Users\yoon\Desktop\RegTester\RealTimeChartTest[2021.04.14]\RealTimeChartTest\obj\Debug\RealTimeChartTest.Properties.Resources.resources
+C:\Users\yoon\Desktop\RegTester\RealTimeChartTest[2021.04.14]\RealTimeChartTest\obj\Debug\RealTimeChartTest.csproj.GenerateResource.Cache
+C:\Users\yoon\Desktop\RegTester\RealTimeChartTest[2021.04.14]listview\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe.config
+C:\Users\yoon\Desktop\RegTester\RealTimeChartTest[2021.04.14]listview\RealTimeChartTest\obj\Debug\RealTimeChartTest.exe
+C:\Users\yoon\Desktop\RegTester\RealTimeChartTest[2021.04.14]listview\RealTimeChartTest\obj\Debug\RealTimeChartTest.pdb
+C:\Users\yoon\Desktop\RegTester\RealTimeChartTest[2021.04.14]listview\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe
+C:\Users\yoon\Desktop\RegTester\RealTimeChartTest[2021.04.14]listview\RealTimeChartTest\bin\Debug\RealTimeChartTest.pdb
+C:\Users\yoon\Desktop\RegTester\RealTimeChartTest[2021.04.14]listview\RealTimeChartTest\obj\Debug\LineChartTEST.Form1.resources
+C:\Users\yoon\Desktop\RegTester\RealTimeChartTest[2021.04.14]listview\RealTimeChartTest\obj\Debug\LineChartTEST.Form2.resources
+C:\Users\yoon\Desktop\RegTester\RealTimeChartTest[2021.04.14]listview\RealTimeChartTest\obj\Debug\RealTimeChartTest.Properties.Resources.resources
+C:\Users\yoon\Desktop\RegTester\RealTimeChartTest[2021.04.14]listview\RealTimeChartTest\obj\Debug\RealTimeChartTest.csproj.GenerateResource.Cache
+C:\Users\yoon\Desktop\RegTester\RealTimeChartTest[2021.04.14]listview\RealTimeChartTest\obj\Debug\RealTimeChartTest.csprojResolveAssemblyReference.cache
+C:\Users\yoon\Desktop\RegTester\[ 2021.04.16 ]RealTimeChartTest\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe.config
+C:\Users\yoon\Desktop\RegTester\[ 2021.04.16 ]RealTimeChartTest\RealTimeChartTest\obj\Debug\RealTimeChartTest.exe
+C:\Users\yoon\Desktop\RegTester\[ 2021.04.16 ]RealTimeChartTest\RealTimeChartTest\obj\Debug\RealTimeChartTest.pdb
+C:\Users\yoon\Desktop\RegTester\[ 2021.04.16 ]RealTimeChartTest\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe
+C:\Users\yoon\Desktop\RegTester\[ 2021.04.16 ]RealTimeChartTest\RealTimeChartTest\bin\Debug\RealTimeChartTest.pdb
+C:\Users\yoon\Desktop\RegTester\[ 2021.04.16 ]RealTimeChartTest\RealTimeChartTest\obj\Debug\RealTimeChartTest.csprojResolveAssemblyReference.cache
+C:\Users\yoon\Desktop\RegTester\[ 2021.04.16 ]RealTimeChartTest\RealTimeChartTest\obj\Debug\LineChartTEST.Form1.resources
+C:\Users\yoon\Desktop\RegTester\[ 2021.04.16 ]RealTimeChartTest\RealTimeChartTest\obj\Debug\LineChartTEST.Form2.resources
+C:\Users\yoon\Desktop\RegTester\[ 2021.04.16 ]RealTimeChartTest\RealTimeChartTest\obj\Debug\RealTimeChartTest.Properties.Resources.resources
+C:\Users\yoon\Desktop\RegTester\[ 2021.04.16 ]RealTimeChartTest\RealTimeChartTest\obj\Debug\RealTimeChartTest.csproj.GenerateResource.Cache
+C:\Users\yoon\Desktop\RegTester\[ 2021.04.19 ]RealTimeChartTest\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe.config
+C:\Users\yoon\Desktop\RegTester\[ 2021.04.19 ]RealTimeChartTest\RealTimeChartTest\obj\Debug\RealTimeChartTest.exe
+C:\Users\yoon\Desktop\RegTester\[ 2021.04.19 ]RealTimeChartTest\RealTimeChartTest\obj\Debug\RealTimeChartTest.pdb
+C:\Users\yoon\Desktop\RegTester\[ 2021.04.19 ]RealTimeChartTest\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe
+C:\Users\yoon\Desktop\RegTester\[ 2021.04.19 ]RealTimeChartTest\RealTimeChartTest\bin\Debug\RealTimeChartTest.pdb
+C:\Users\yoon\Desktop\RegTester\[ 2021.04.19 ]RealTimeChartTest\RealTimeChartTest\obj\Debug\LineChartTEST.Form1.resources
+C:\Users\yoon\Desktop\RegTester\[ 2021.04.19 ]RealTimeChartTest\RealTimeChartTest\obj\Debug\LineChartTEST.Form2.resources
+C:\Users\yoon\Desktop\RegTester\[ 2021.04.19 ]RealTimeChartTest\RealTimeChartTest\obj\Debug\RealTimeChartTest.Properties.Resources.resources
+C:\Users\yoon\Desktop\RegTester\[ 2021.04.19 ]RealTimeChartTest\RealTimeChartTest\obj\Debug\RealTimeChartTest.csproj.GenerateResource.Cache

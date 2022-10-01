@@ -1,0 +1,30 @@
+<Chart Size="575, 404" BackSecondaryColor="Ivory" BorderlineColor="Silver" BorderlineWidth="2" BorderlineDashStyle="Solid">
+  <Series>
+    <Series Name="Ohm" Legend="Legend1" XValueType="Double" YValueType="Double" ChartType="Spline" ChartArea="Defalut" Color="Firebrick" BorderColor="Red" BorderWidth="2">
+      <Points>
+        <DataPoint XValue="1" YValues="16107.945" />
+        <DataPoint XValue="2" YValues="16108.154" />
+        <DataPoint XValue="3" YValues="16109.725" />
+      </Points>
+    </Series>
+  </Series>
+  <Legends>
+    <Legend Name="Legend1" IsDockedInsideChartArea="False" Alignment="Far" Docking="Top" TitleAlignment="Far">
+    </Legend>
+  </Legends>
+  <ChartAreas>
+    <ChartArea BackColor="White" BackSecondaryColor="Gray" Name="Defalut">
+      <AxisY LineDashStyle="DashDot" Interval="322.35470000000021" Maximum="17720.697500000002" Minimum="14497.1505">
+      </AxisY>
+      <AxisX LabelAutoFitStyle="IncreaseFont, DecreaseFont, StaggeredLabels, WordWrap">
+        <ScaleView SizeType="Seconds" />
+      </AxisX>
+      <AxisX2 ArrowStyle="SharpTriangle">
+      </AxisX2>
+      <Position X="4.536885" Y="5.508361" Width="90.15778" Height="87.7291" Auto="False" />
+      <InnerPlotPosition X="9.31973" Y="3.5906" Width="88.93334" Height="85.39538" Auto="False" />
+      <Area3DStyle IsRightAngleAxes="False" Inclination="20" Rotation="50" WallWidth="21" PointDepth="200" />
+    </ChartArea>
+  </ChartAreas>
+  <BorderSkin SkinStyle="Emboss" BackColor="HighlightText" BackSecondaryColor="255, 128, 128" BorderWidth="23" BorderDashStyle="Solid" />
+</Chart>

@@ -1,0 +1,39 @@
+C:\Users\yoon\Desktop\RegTester\[ 2021.04.19 ]RealTimeChartTest\RealTimeChartTest\obj\Debug\LineChartTEST.Form1.resources
+C:\Users\yoon\Desktop\RegTester\[ 2021.04.19 ]RealTimeChartTest\RealTimeChartTest\obj\Debug\LineChartTEST.Form2.resources
+C:\Users\yoon\Desktop\RegTester\[ 2021.04.19 ]RealTimeChartTest\RealTimeChartTest\obj\Debug\RT-100.csproj.GenerateResource.Cache
+C:\Users\yoon\Desktop\RegTester\[ 2021.04.19 ]RealTimeChartTest\RealTimeChartTest\bin\Debug\RT100.exe.config
+C:\Users\yoon\Desktop\RegTester\[ 2021.04.19 ]RealTimeChartTest\RealTimeChartTest\bin\Debug\RT100.exe
+C:\Users\yoon\Desktop\RegTester\[ 2021.04.19 ]RealTimeChartTest\RealTimeChartTest\bin\Debug\RT100.pdb
+C:\Users\yoon\Desktop\RegTester\[ 2021.04.19 ]RealTimeChartTest\RealTimeChartTest\obj\Debug\RT100.Properties.Resources.resources
+C:\Users\yoon\Desktop\RegTester\[ 2021.04.19 ]RealTimeChartTest\RealTimeChartTest\obj\Debug\RT100.exe
+C:\Users\yoon\Desktop\RegTester\[ 2021.04.19 ]RealTimeChartTest\RealTimeChartTest\obj\Debug\RT100.pdb
+D:\Tester backup\TesterProgram\RegTester\[ 2021.04.19 ]RealTimeChartTest\RealTimeChartTest\bin\Debug\RT100.exe.config
+D:\Tester backup\TesterProgram\RegTester\[ 2021.04.19 ]RealTimeChartTest\RealTimeChartTest\obj\Debug\RT100.exe
+D:\Tester backup\TesterProgram\RegTester\[ 2021.04.19 ]RealTimeChartTest\RealTimeChartTest\obj\Debug\RT100.pdb
+D:\Tester backup\TesterProgram\RegTester\[ 2021.04.19 ]RealTimeChartTest\RealTimeChartTest\bin\Debug\RT100.exe
+D:\Tester backup\TesterProgram\RegTester\[ 2021.04.19 ]RealTimeChartTest\RealTimeChartTest\bin\Debug\RT100.pdb
+D:\Tester backup\TesterProgram\RegTester\[ 2021.04.19 ]RealTimeChartTest\RealTimeChartTest\obj\Debug\LineChartTEST.Form1.resources
+D:\Tester backup\TesterProgram\RegTester\[ 2021.04.19 ]RealTimeChartTest\RealTimeChartTest\obj\Debug\LineChartTEST.Form2.resources
+D:\Tester backup\TesterProgram\RegTester\[ 2021.04.19 ]RealTimeChartTest\RealTimeChartTest\obj\Debug\RT100.Properties.Resources.resources
+D:\Tester backup\TesterProgram\RegTester\[ 2021.04.19 ]RealTimeChartTest\RealTimeChartTest\obj\Debug\RT-100.csproj.GenerateResource.Cache
+D:\Tester backup\TesterProgram\RegTester\[ 2021.04.19 ]RealTimeChartTest\RealTimeChartTest\obj\Debug\RT-100.csprojResolveAssemblyReference.cache
+D:\Tester backup\TesterProgram\RegTester\[ 2021.04.27 ]RealTimeChartTest\RealTimeChartTest\bin\Debug\RT100.exe.config
+D:\Tester backup\TesterProgram\RegTester\[ 2021.04.27 ]RealTimeChartTest\RealTimeChartTest\obj\Debug\RT100.exe
+D:\Tester backup\TesterProgram\RegTester\[ 2021.04.27 ]RealTimeChartTest\RealTimeChartTest\obj\Debug\RT100.pdb
+D:\Tester backup\TesterProgram\RegTester\[ 2021.04.27 ]RealTimeChartTest\RealTimeChartTest\bin\Debug\RT100.exe
+D:\Tester backup\TesterProgram\RegTester\[ 2021.04.27 ]RealTimeChartTest\RealTimeChartTest\bin\Debug\RT100.pdb
+D:\Tester backup\TesterProgram\RegTester\[ 2021.04.27 ]RealTimeChartTest\RealTimeChartTest\obj\Debug\LineChartTEST.Form1.resources
+D:\Tester backup\TesterProgram\RegTester\[ 2021.04.27 ]RealTimeChartTest\RealTimeChartTest\obj\Debug\LineChartTEST.Form2.resources
+D:\Tester backup\TesterProgram\RegTester\[ 2021.04.27 ]RealTimeChartTest\RealTimeChartTest\obj\Debug\RT100.Properties.Resources.resources
+D:\Tester backup\TesterProgram\RegTester\[ 2021.04.27 ]RealTimeChartTest\RealTimeChartTest\obj\Debug\RT-100.csproj.GenerateResource.Cache
+D:\Tester backup\TesterProgram\RegTester\[ 2021.04.27 ]RealTimeChartTest\RealTimeChartTest\obj\Debug\RT-100.csprojResolveAssemblyReference.cache
+D:\TESTER자료\RegTester\[ 2021.04.27 ]RealTimeChartTest\RealTimeChartTest\bin\Debug\RT100.exe.config
+D:\TESTER자료\RegTester\[ 2021.04.27 ]RealTimeChartTest\RealTimeChartTest\bin\Debug\RT100.exe
+D:\TESTER자료\RegTester\[ 2021.04.27 ]RealTimeChartTest\RealTimeChartTest\bin\Debug\RT100.pdb
+D:\TESTER자료\RegTester\[ 2021.04.27 ]RealTimeChartTest\RealTimeChartTest\obj\Debug\LineChartTEST.Form1.resources
+D:\TESTER자료\RegTester\[ 2021.04.27 ]RealTimeChartTest\RealTimeChartTest\obj\Debug\LineChartTEST.Form2.resources
+D:\TESTER자료\RegTester\[ 2021.04.27 ]RealTimeChartTest\RealTimeChartTest\obj\Debug\RT100.Properties.Resources.resources
+D:\TESTER자료\RegTester\[ 2021.04.27 ]RealTimeChartTest\RealTimeChartTest\obj\Debug\RT-100.csproj.GenerateResource.cache
+D:\TESTER자료\RegTester\[ 2021.04.27 ]RealTimeChartTest\RealTimeChartTest\obj\Debug\RT100.exe
+D:\TESTER자료\RegTester\[ 2021.04.27 ]RealTimeChartTest\RealTimeChartTest\obj\Debug\RT100.pdb
+D:\TESTER자료\RegTester\[ 2021.04.27 ]RealTimeChartTest\RealTimeChartTest\obj\Debug\RT-100.csprojResolveAssemblyReference.cache

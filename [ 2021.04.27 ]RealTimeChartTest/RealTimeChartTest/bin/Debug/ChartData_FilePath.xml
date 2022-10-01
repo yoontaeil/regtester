@@ -1,0 +1,35 @@
+<Chart Size="575, 404" BackSecondaryColor="Ivory" BorderlineColor="Silver" BorderlineWidth="2" BorderlineDashStyle="Solid">
+  <Series>
+    <Series Name="Ohm" Legend="Legend1" XValueType="DateTime" YValueType="Double" ChartType="Spline" ChartArea="Defalut" Color="Firebrick" BorderColor="Red" BorderWidth="2">
+      <Points>
+        <DataPoint XValue="44271.585594791664" YValues="-70" />
+        <DataPoint XValue="44271.585599143516" YValues="-20" />
+        <DataPoint XValue="44271.585601354163" YValues="-91" />
+        <DataPoint XValue="44271.58560366898" YValues="23" />
+        <DataPoint XValue="44271.585606076391" YValues="27" />
+        <DataPoint XValue="44271.585609513888" YValues="-41" />
+        <DataPoint XValue="44271.585611261573" YValues="82" />
+        <DataPoint XValue="44271.585613125" YValues="-14" />
+        <DataPoint XValue="44271.585616273151" YValues="-74" />
+        <DataPoint XValue="44271.585618032404" YValues="18" />
+        <DataPoint XValue="44271.585620995371" YValues="-23" />
+        <DataPoint XValue="44271.585623865743" YValues="-71" />
+      </Points>
+    </Series>
+  </Series>
+  <Legends>
+    <Legend Name="Legend1">
+    </Legend>
+  </Legends>
+  <ChartAreas>
+    <ChartArea BackColor="White" BackSecondaryColor="Gray" Name="Defalut">
+      <AxisX LabelAutoFitStyle="IncreaseFont, DecreaseFont, StaggeredLabels, WordWrap">
+        <ScaleView SizeType="Seconds" />
+      </AxisX>
+      <Position X="4.536885" Y="5.508361" Width="90.15778" Height="87.7291" Auto="False" />
+      <InnerPlotPosition X="9.31973" Y="3.5906" Width="88.93334" Height="85.39538" Auto="False" />
+      <Area3DStyle IsRightAngleAxes="False" Inclination="20" Rotation="50" WallWidth="21" PointDepth="200" />
+    </ChartArea>
+  </ChartAreas>
+  <BorderSkin SkinStyle="Emboss" BackColor="HighlightText" BackSecondaryColor="255, 128, 128" BorderWidth="23" BorderDashStyle="Solid" />
+</Chart>

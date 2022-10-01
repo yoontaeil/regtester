@@ -1,0 +1,72 @@
+<Chart Size="575, 404" BackSecondaryColor="Ivory" BorderlineColor="Silver" BorderlineWidth="2" BorderlineDashStyle="Solid">
+  <Series>
+    <Series Name="Ohm" Legend="Legend1" XValueType="UInt32" YValueType="Double" ChartType="Spline" ChartArea="Defalut" Color="Firebrick" BorderColor="Red" BorderWidth="2">
+      <Points>
+        <DataPoint XValue="1" YValues="-77" />
+        <DataPoint XValue="2" YValues="53" />
+        <DataPoint XValue="3" YValues="94" />
+        <DataPoint XValue="4" YValues="56" />
+        <DataPoint XValue="5" YValues="21" />
+        <DataPoint XValue="6" YValues="92" />
+        <DataPoint XValue="7" YValues="-88" />
+        <DataPoint XValue="8" YValues="43" />
+        <DataPoint XValue="9" YValues="-76" />
+        <DataPoint XValue="10" YValues="36" />
+        <DataPoint XValue="11" YValues="40" />
+        <DataPoint XValue="12" YValues="69" />
+        <DataPoint XValue="13" YValues="-24" />
+        <DataPoint XValue="14" YValues="75" />
+        <DataPoint XValue="15" YValues="61" />
+        <DataPoint XValue="16" YValues="2" />
+        <DataPoint XValue="17" YValues="-86" />
+        <DataPoint XValue="18" YValues="84" />
+        <DataPoint XValue="19" YValues="50" />
+        <DataPoint XValue="20" YValues="-26" />
+        <DataPoint XValue="21" YValues="-89" />
+        <DataPoint XValue="22" YValues="45" />
+        <DataPoint XValue="23" YValues="-75" />
+        <DataPoint XValue="24" YValues="54" />
+        <DataPoint XValue="25" YValues="-9" />
+        <DataPoint XValue="26" YValues="25" />
+        <DataPoint XValue="27" YValues="21" />
+        <DataPoint XValue="28" YValues="99" />
+        <DataPoint XValue="29" YValues="-76" />
+        <DataPoint XValue="30" YValues="69" />
+        <DataPoint XValue="31" YValues="-98" />
+        <DataPoint XValue="32" YValues="34" />
+        <DataPoint XValue="33" YValues="57" />
+        <DataPoint XValue="34" YValues="-41" />
+        <DataPoint XValue="35" YValues="68" />
+        <DataPoint XValue="36" YValues="-52" />
+        <DataPoint XValue="37" YValues="78" />
+        <DataPoint XValue="38" YValues="-56" />
+        <DataPoint XValue="39" YValues="99" />
+        <DataPoint XValue="40" YValues="-15" />
+        <DataPoint XValue="41" YValues="58" />
+        <DataPoint XValue="42" YValues="13" />
+        <DataPoint XValue="43" YValues="83" />
+        <DataPoint XValue="44" YValues="-44" />
+        <DataPoint XValue="45" YValues="31" />
+        <DataPoint XValue="46" YValues="-47" />
+        <DataPoint XValue="47" YValues="43" />
+        <DataPoint XValue="48" YValues="-73" />
+        <DataPoint XValue="49" YValues="-33" />
+      </Points>
+    </Series>
+  </Series>
+  <Legends>
+    <Legend Name="Legend1">
+    </Legend>
+  </Legends>
+  <ChartAreas>
+    <ChartArea BackColor="White" BackSecondaryColor="Gray" Name="Defalut">
+      <AxisX LabelAutoFitStyle="IncreaseFont, DecreaseFont, StaggeredLabels, WordWrap">
+        <ScaleView SizeType="Seconds" />
+      </AxisX>
+      <Position X="4.536885" Y="5.508361" Width="90.15778" Height="87.7291" Auto="False" />
+      <InnerPlotPosition X="9.31973" Y="3.5906" Width="88.93334" Height="85.39538" Auto="False" />
+      <Area3DStyle IsRightAngleAxes="False" Inclination="20" Rotation="50" WallWidth="21" PointDepth="200" />
+    </ChartArea>
+  </ChartAreas>
+  <BorderSkin SkinStyle="Emboss" BackColor="HighlightText" BackSecondaryColor="255, 128, 128" BorderWidth="23" BorderDashStyle="Solid" />
+</Chart>
